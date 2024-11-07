@@ -403,7 +403,10 @@ span {
     box-shadow: 0 0 25px var(--main-color);
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f2ce4ed33678a38e68869182a78c327a15dc29f3
 /* education section design */
 
 .heading {
@@ -785,6 +788,7 @@ span {
     background-color: var(--main-color);
     border-radius: 8px;
 }
+<<<<<<< HEAD
 
 /* Responsive Design */
 
@@ -919,3 +923,5 @@ span {
         margin: 2rem 0;
     }
 }
+=======
+>>>>>>> f2ce4ed33678a38e68869182a78c327a15dc29f3
